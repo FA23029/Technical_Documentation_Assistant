@@ -1,0 +1,10 @@
+streamlit
+pymupdf
+sentence-transformers
+faiss-cpu
+google-genai
+python-dotenv
+numpy
+torch
+transformers
+huggingface-hub
